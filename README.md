@@ -18,9 +18,9 @@ OPENAI_API_KEY=sk-your-api-key-here
 
 python scripts/build_index.py
 
-## 4. To Run MCP Server
+## 4. MCP Server
 
-python servers/mcp_nova/server.py
+uvicorn servers.mcp_nova.server:app --reload --port 8001
 
 ## 5. CLI
 
