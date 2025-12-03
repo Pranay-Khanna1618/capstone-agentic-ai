@@ -1,0 +1,120 @@
+ticket_id,account_id,opened_on,priority,status,subject,owner
+T-A001-1,A001,2025-11-10,High,Open,Login error,Aarti
+T-A001-2,A001,2025-11-28,Medium,Pending,Billing issue,Neha
+T-A002-1,A002,2025-10-10,Medium,Open,Feature request,Kiran
+T-A002-2,A002,2025-10-18,Medium,Closed,Login error,Neha
+T-A003-1,A003,2025-09-26,Medium,Closed,Campaign email bounce,Mohit
+T-A003-2,A003,2025-11-03,Low,Pending,API timeout,Aarti
+T-A004-1,A004,2025-11-14,Low,Closed,Billing issue,Ritika
+T-A004-2,A004,2025-11-26,Low,Closed,API timeout,Neha
+T-A005-1,A005,2025-11-08,Medium,Closed,Billing issue,Mohit
+T-A005-2,A005,2025-09-22,High,Open,Billing issue,Mohit
+T-A005-3,A005,2025-08-16,High,Closed,API timeout,Ritika
+T-A006-1,A006,2025-11-17,Medium,Closed,Feature request,Ritika
+T-A006-2,A006,2025-09-06,Low,Closed,Campaign email bounce,Mohit
+T-A006-3,A006,2025-10-23,Low,Closed,Campaign email bounce,Mohit
+T-A006-4,A006,2025-09-02,Medium,Closed,Campaign email bounce,Aarti
+T-A007-1,A007,2025-10-06,Low,Open,Feature request,Ritika
+T-A008-1,A008,2025-08-21,Low,Open,Campaign email bounce,Ritika
+T-A009-1,A009,2025-11-02,High,Pending,Campaign email bounce,Aarti
+T-A009-2,A009,2025-10-05,High,Open,Billing issue,Aarti
+T-A009-3,A009,2025-11-21,Medium,Open,API timeout,Kiran
+T-A010-1,A010,2025-10-14,Medium,Open,Campaign email bounce,Aarti
+T-A010-2,A010,2025-09-14,Low,Open,API timeout,Mohit
+T-A010-3,A010,2025-09-26,Low,Open,Login error,Kiran
+T-A010-4,A010,2025-10-11,Low,Pending,API timeout,Mohit
+T-A011-1,A011,2025-11-14,Medium,Closed,Billing issue,Neha
+T-A011-2,A011,2025-11-14,Low,Open,Login error,Kiran
+T-A012-1,A012,2025-09-16,Low,Open,Billing issue,Ritika
+T-A012-2,A012,2025-08-22,Medium,Open,Login error,Ritika
+T-A012-3,A012,2025-11-28,Medium,Pending,Feature request,Aarti
+T-A012-4,A012,2025-09-14,Low,Pending,Feature request,Aarti
+T-A013-1,A013,2025-09-10,High,Pending,Feature request,Ritika
+T-A014-1,A014,2025-09-09,Medium,Pending,Billing issue,Ritika
+T-A015-1,A015,2025-08-21,Low,Open,API timeout,Kiran
+T-A015-2,A015,2025-08-27,Low,Closed,Billing issue,Aarti
+T-A016-1,A016,2025-10-09,Medium,Open,Feature request,Ritika
+T-A016-2,A016,2025-09-27,Low,Open,Campaign email bounce,Aarti
+T-A016-3,A016,2025-10-15,Medium,Open,Campaign email bounce,Ritika
+T-A017-1,A017,2025-09-23,Medium,Open,Campaign email bounce,Aarti
+T-A018-1,A018,2025-11-14,Medium,Closed,Feature request,Ritika
+T-A018-2,A018,2025-10-20,High,Open,Feature request,Neha
+T-A018-3,A018,2025-11-20,Low,Closed,Login error,Neha
+T-A018-4,A018,2025-11-25,Medium,Pending,API timeout,Kiran
+T-A019-1,A019,2025-09-06,Low,Pending,API timeout,Mohit
+T-A019-2,A019,2025-09-06,Low,Open,Billing issue,Aarti
+T-A020-1,A020,2025-11-15,Low,Closed,Campaign email bounce,Mohit
+T-A020-2,A020,2025-10-18,Medium,Open,Feature request,Ritika
+T-A020-3,A020,2025-09-25,Low,Open,API timeout,Kiran
+T-A020-4,A020,2025-10-21,Medium,Pending,API timeout,Neha
+T-A021-1,A021,2025-08-03,Low,Pending,Campaign email bounce,Mohit
+T-A021-2,A021,2025-09-13,High,Open,Feature request,Neha
+T-A022-1,A022,2025-08-03,Low,Pending,Campaign email bounce,Neha
+T-A022-2,A022,2025-09-08,Low,Pending,Campaign email bounce,Neha
+T-A022-3,A022,2025-08-13,Low,Pending,Login error,Neha
+T-A022-4,A022,2025-10-11,High,Closed,Feature request,Neha
+T-A023-1,A023,2025-10-05,Medium,Open,Campaign email bounce,Mohit
+T-A023-2,A023,2025-09-27,Low,Closed,Billing issue,Aarti
+T-A023-3,A023,2025-11-08,Low,Open,Login error,Aarti
+T-A024-1,A024,2025-09-02,Low,Pending,Login error,Kiran
+T-A025-1,A025,2025-08-21,High,Closed,Feature request,Ritika
+T-A025-2,A025,2025-09-03,Low,Closed,Login error,Neha
+T-A025-3,A025,2025-11-13,High,Pending,Feature request,Aarti
+T-A025-4,A025,2025-09-20,Medium,Pending,Campaign email bounce,Ritika
+T-A026-1,A026,2025-08-25,Low,Open,Billing issue,Kiran
+T-A026-2,A026,2025-10-01,Medium,Open,Campaign email bounce,Neha
+T-A027-1,A027,2025-10-08,Low,Pending,Login error,Mohit
+T-A027-2,A027,2025-10-12,Low,Open,Login error,Mohit
+T-A027-3,A027,2025-10-19,Low,Pending,Campaign email bounce,Aarti
+T-A027-4,A027,2025-09-23,Low,Closed,API timeout,Neha
+T-A028-1,A028,2025-11-10,Medium,Open,API timeout,Kiran
+T-A028-2,A028,2025-11-19,Medium,Open,Feature request,Mohit
+T-A028-3,A028,2025-09-28,Low,Open,Login error,Mohit
+T-A029-1,A029,2025-11-21,Medium,Open,API timeout,Aarti
+T-A030-1,A030,2025-10-24,Low,Open,Login error,Ritika
+T-A031-1,A031,2025-10-25,Medium,Open,Campaign email bounce,Aarti
+T-A032-1,A032,2025-10-18,High,Pending,Billing issue,Mohit
+T-A033-1,A033,2025-09-28,Low,Pending,API timeout,Aarti
+T-A033-2,A033,2025-09-13,High,Pending,API timeout,Kiran
+T-A033-3,A033,2025-10-01,Medium,Pending,Campaign email bounce,Ritika
+T-A034-1,A034,2025-10-09,Low,Pending,Feature request,Aarti
+T-A034-2,A034,2025-09-11,Low,Open,Feature request,Mohit
+T-A034-3,A034,2025-11-16,Low,Closed,Campaign email bounce,Ritika
+T-A035-1,A035,2025-09-17,Medium,Closed,Campaign email bounce,Neha
+T-A035-2,A035,2025-11-09,Medium,Open,Feature request,Aarti
+T-A036-1,A036,2025-10-08,Medium,Open,API timeout,Aarti
+T-A036-2,A036,2025-10-08,Low,Open,Login error,Kiran
+T-A037-1,A037,2025-11-02,Low,Pending,Billing issue,Kiran
+T-A037-2,A037,2025-11-25,Low,Closed,Billing issue,Neha
+T-A037-3,A037,2025-10-02,Medium,Open,Login error,Neha
+T-A037-4,A037,2025-09-01,Low,Open,Billing issue,Kiran
+T-A038-1,A038,2025-10-24,Medium,Open,Billing issue,Ritika
+T-A038-2,A038,2025-10-10,Low,Open,Billing issue,Neha
+T-A039-1,A039,2025-08-16,Low,Pending,Campaign email bounce,Neha
+T-A039-2,A039,2025-10-18,High,Closed,API timeout,Kiran
+T-A040-1,A040,2025-09-16,Low,Pending,Billing issue,Mohit
+T-A040-2,A040,2025-10-04,Medium,Open,Billing issue,Neha
+T-A040-3,A040,2025-09-26,Medium,Open,Campaign email bounce,Kiran
+T-A040-4,A040,2025-08-15,Medium,Closed,API timeout,Mohit
+T-A041-1,A041,2025-11-13,Low,Closed,Login error,Ritika
+T-A042-1,A042,2025-10-03,High,Open,Billing issue,Ritika
+T-A042-2,A042,2025-08-06,Medium,Closed,Billing issue,Aarti
+T-A043-1,A043,2025-10-16,Low,Open,Feature request,Neha
+T-A043-2,A043,2025-09-27,High,Closed,Billing issue,Aarti
+T-A043-3,A043,2025-11-17,High,Pending,Campaign email bounce,Mohit
+T-A043-4,A043,2025-10-01,Medium,Closed,Campaign email bounce,Ritika
+T-A044-1,A044,2025-09-19,Medium,Closed,Campaign email bounce,Aarti
+T-A044-2,A044,2025-11-23,Medium,Open,Billing issue,Kiran
+T-A045-1,A045,2025-09-04,Medium,Pending,Feature request,Kiran
+T-A045-2,A045,2025-10-12,Low,Open,Campaign email bounce,Aarti
+T-A045-3,A045,2025-08-03,Medium,Open,Billing issue,Kiran
+T-A046-1,A046,2025-11-23,Low,Pending,Feature request,Neha
+T-A046-2,A046,2025-08-19,Medium,Closed,Feature request,Mohit
+T-A047-1,A047,2025-11-21,Low,Pending,Billing issue,Ritika
+T-A047-2,A047,2025-10-14,Low,Closed,Feature request,Neha
+T-A047-3,A047,2025-09-19,Low,Open,Login error,Aarti
+T-A048-1,A048,2025-11-28,Medium,Closed,API timeout,Aarti
+T-A048-2,A048,2025-10-20,Low,Closed,Billing issue,Ritika
+T-A049-1,A049,2025-08-07,Low,Pending,API timeout,Ritika
+T-A050-1,A050,2025-09-24,Low,Open,API timeout,Neha
+T-A050-2,A050,2025-09-10,Low,Closed,Login error,Mohit

@@ -1,0 +1,10 @@
+openai
+langchain
+langgraph
+faiss-cpu
+fastapi
+uvicorn
+pydantic
+pandas
+streamlit
+python-dotenv
