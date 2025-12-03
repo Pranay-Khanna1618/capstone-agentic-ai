@@ -10,7 +10,7 @@ api_key = os.getenv("OPENAI_API_KEY")
 
 client = OpenAI(api_key=api_key)
 
-md_pattern = "docs/**/*.md"
+md_pattern = "data/kb/*.md"
 
 chunks = []
 sources = []
@@ -37,7 +37,7 @@ for text in chunks:
 
 embeddings = np.asarray(vectors, dtype="float32")
 
-dim = embeddings.shape[1]
+dim = len(embeddings[0])
 index = faiss.IndexFlatL2(dim)
 index.add(embeddings)
 faiss.write_index(index, "./index/faiss_index.bin")
