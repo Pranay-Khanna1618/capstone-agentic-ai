@@ -1,9 +1,9 @@
+from __future__ import annotations
+from graph import run_agent
+
 import argparse
 import sys
 from pathlib import Path
-
-from __future__ import annotations
-from graph import run_agent
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
