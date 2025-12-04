@@ -24,5 +24,5 @@ uvicorn servers.mcp_nova.server:app --reload --port 8001
 
 ## 5. CLI
 
-python app/cli.py
+python app/cli.py --account A013 --temp 0.0
 
